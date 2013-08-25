@@ -1,5 +1,5 @@
 {
-    "name": "api_client_php",
+    "name": "zanoxapi",
     "type": "library",
     "description": "Zanox Api",
     "keywords": ["Zanox"],
