@@ -1,0 +1,21 @@
+{
+    "name": "ZanoxApi",
+    "type": "library",
+    "description": "Zanox Api",
+    "keywords": ["Zanox"],
+    "homepage": "http://www.zanox.com",
+   
+    "require": {
+        "php": ">=5.2.4"
+    },
+    "autoload": {
+        "psr-0" : {
+            "" : "api_client_php/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
